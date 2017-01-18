@@ -1,7 +1,7 @@
 compile:
   override:
     - make
-	- ls -a
+    - ls -a
     - cp libic.so $CIRCLE_ARTIFACTS
 
 checkout:
