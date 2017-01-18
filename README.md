@@ -1,4 +1,4 @@
-TurboPFor: Fastest Integer Compression [![Build Status](https://travis-ci.org/powturbo/TurboPFor.svg?branch=master)](https://travis-ci.org/powturbo/TurboPFor)
+TurboPFor: Fastest Integer Compression [![Build Status](https://travis-ci.org/yurii-diachenko/TurboPFor.svg?branch=master)](https://travis-ci.org/yurii-diachenko/TurboPFor)
 ======================================
 + **TurboPFor: The new synonym for "integer compression"**
  - 100% C (C++ headers), as simple as memcpy
