@@ -5,3 +5,8 @@ compile:
 checkout:
   post:
     - git submodule update --init
+	
+test:
+  override:
+    # copy results
+    - cp libic.so $CIRCLE_ARTIFACTS
