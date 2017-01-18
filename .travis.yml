@@ -6,7 +6,7 @@ script:
     - make
 deploy:
   provider: releases
-  api_key: "37cb3e17c76debadc8231a5b37d64c2a9fbd97b3"
+  api_key: "21a5dd0d96022e7264dbadea00833d4230c56cd1"
   file: "libic.so"
   skip_cleanup: true
   on:
