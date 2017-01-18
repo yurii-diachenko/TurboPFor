@@ -2,8 +2,7 @@ compile:
   override:
     - make
     - cp libic.so $CIRCLE_ARTIFACTS
-	
+
 checkout:
   post:
     - git submodule update --init
-	
